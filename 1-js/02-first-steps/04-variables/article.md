@@ -315,7 +315,7 @@ Por favor, dedica tiempo para pensar un nombre correcto para una variable antes 
 
 Algunas reglas buenas para seguir:
 
-- Usa términos legibles para humanos como `userName` p `shoppingCart`.
+- Usa términos legibles para humanos como `userName` o `shoppingCart`.
 - Evita abreviaciones o nombres cortos `a`, `b`, `c`, a menos que realmente sepas lo que estás haciendo.
 - Crea nombres que describan al máximo lo que son y sean concisos. Ejemplos de nombres malos son `data` y `value`. Estos nombres no nos dicen nada, solo son adecuados en el contexto de un código que deje excepcionalmente obvio cuál dato o valor está referenciando la variable.
 - Ponte de acuerdo con tu equipo, y con tu propia mente, cuáles términos se utilizarán. Si a un visitante se lo llamara "user", debemos llamar las variables relacionadas `currentUser` o `newUser` en vez de `currentVisitor` o `newManInTown`.
